@@ -2,7 +2,7 @@
 
 Aplicativo nativo desenvolvido em Kotlin, utilizando Retrofit para o consumo de API;
 Koin para injeção de dependencias;
-Arquitetura MVVM com State pattern e Live Data;
+Arquitetura MVVM com State pattern, Live Data e Coroutines;
 Glide para o carregamento de imagens;
 
 Tela de carregamento e Animações usando Jetpack Compose e tela principal usando XML (expondo minha capacidade nas duas formas de criação de layout);
