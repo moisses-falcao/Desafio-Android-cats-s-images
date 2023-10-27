@@ -1,4 +1,4 @@
-package com.example.desafioandroid.ui.ui.theme
+package com.example.desafioandroid.ui.composable.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

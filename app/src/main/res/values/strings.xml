@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Desafio Android</string>
+    <string name="app_name">Desafio Android - Moissés Falcão</string>
     <!-- Strings used for fragments for navigation -->
     <string name="next">Next</string>
     <string name="previous">Previous</string>
@@ -40,5 +40,6 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
-    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_loading_compose_activity">LoadingComposeActivity</string>
+    <string name="desafio_android_feito_por_moiss_s_falc_o_nmoissesfalcao_gmail_com_n_55_11_969153231">Desafio Android feito por Moissés Falcão\nmoissesfalcao@gmail.com\n+55 11 969153231</string>
 </resources>
