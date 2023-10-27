@@ -5,7 +5,7 @@ Koin para injeção de dependencias;
 Arquitetura MVVM com State pattern e Live Data;
 Glide para o carregamento de imagens;
 
-Animações usando Jetpack Compose e layout em XML (expondo minha capacidade nas duas formas de criação de layout);
+Tela de carregamento e Animações usando Jetpack Compose e tela principal usando XML (expondo minha capacidade nas duas formas de criação de layout);
 Testes unitários com MockK e JUnit;
 
 OBS: Apesar de ser uma aplicação simples a mesma teve over engeneering em relação as tecnologias, padrões de design e arquitetura a fim de demonstrar minha experiência e domínio nessas competencias.
